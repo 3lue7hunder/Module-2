@@ -16,7 +16,7 @@ No external dependencies are required. Python 3.6+ and the built in `sqlite3` mo
 
 My purpose in writing this software was to move beyond surface level SQL syntax and actually build a system that constructs and executes SQL dynamically, handles relational data across multiple tables, and uses query results meaningfully within application logic. The project also gave me hands on experience with foreign keys, aggregate functions, date filtering, and the practical tradeoffs of using an embedded database like SQLite.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/65f10dddf7fb4c6d8f5b3980699bd8bb)
 
 ---
 
